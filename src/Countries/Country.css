@@ -1,0 +1,20 @@
+.country-container{
+    /* display:flex; */
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.country{
+    float: left;
+    height: 300px;
+    width: 300px;
+    border: 2px solid lightblue;
+    border-radius: 5%;
+}
+.country-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px;
+}
+.country img{
+    height:100px;
+}
